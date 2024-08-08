@@ -1,0 +1,36 @@
+{
+    "uzb": [
+        {
+            "isbn": "978-9943-7529-6-2",
+            "sarlavha": "Iqtisodiy Psixologiya",
+            "mualif": "N.X.Lutfullayeva",
+            "sahifa": 251,
+            "qator": 4,
+            "ustun": 3
+        },
+        {
+            "isbn": "9789943231887",
+            "sarlavha": "Top Universitetlarga Grand Yutish Sirlari",
+            "mualif": "Umidjon Ishmukhamedov",
+            "sahifa": 159,
+            "qator": 1,
+            "ustun": 2
+        },
+        {
+            "isbn": "978-9943-6124-3-3",
+            "sarlavha": "Nasroniy Atirguli",
+            "mualif": "Amina Shenliko'g'lu",
+            "sahifa": 303,
+            "qator": 1,
+            "ustun": 3
+        },
+        {
+            "isbn": "2000000100630",
+            "sarlavha": "Alisher Navoiy",
+            "mualif": "Isajon Sulton",
+            "sahifa": 510,
+            "qator": 1,
+            "ustun": 2
+        }
+    ]
+}

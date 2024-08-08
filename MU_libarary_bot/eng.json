@@ -1,0 +1,36 @@
+{
+    "eng": [
+        {
+            "isbn": "9780814437520",
+            "title": "Hiring and Firing",
+            "author": "Brian Tracy",
+            "pages": 104,
+            "column": 4,
+            "shelf": 2
+        },
+        {
+            "isbn": "9780712676090",
+            "title": "Good To Great",
+            "author": "Jim Collins",
+            "pages": 300,
+            "column": 3,
+            "shelf": 3
+        },
+        {
+            "isbn": "9781542000178",
+            "title": "Layla",
+            "author": "Collen Hoover",
+            "pages": 290,
+            "column": 3,
+            "shelf": 2
+        },
+        {
+            "isbn": "9781476743554",
+            "title": "Hopeless",
+            "author": "Collen Hoover",
+            "pages": 408,
+            "column": 3,
+            "shelf": 3
+        }
+    ]
+}
